@@ -1,0 +1,8 @@
+C:\Users\eduar\Work\GnA\HelloWorld_DotNetCore\HelloMVCWorld\bin\release\netcoreapp1.1\Win10-x64\HelloMVCWorld.deps.json
+C:\Users\eduar\Work\GnA\HelloWorld_DotNetCore\HelloMVCWorld\bin\release\netcoreapp1.1\Win10-x64\HelloMVCWorld.runtimeconfig.json
+C:\Users\eduar\Work\GnA\HelloWorld_DotNetCore\HelloMVCWorld\bin\release\netcoreapp1.1\Win10-x64\HelloMVCWorld.runtimeconfig.dev.json
+C:\Users\eduar\Work\GnA\HelloWorld_DotNetCore\HelloMVCWorld\bin\release\netcoreapp1.1\Win10-x64\HelloMVCWorld.dll
+C:\Users\eduar\Work\GnA\HelloWorld_DotNetCore\HelloMVCWorld\bin\release\netcoreapp1.1\Win10-x64\HelloMVCWorld.pdb
+C:\Users\eduar\Work\GnA\HelloWorld_DotNetCore\HelloMVCWorld\obj\release\netcoreapp1.1\Win10-x64\HelloMVCWorld.AssemblyInfo.cs
+C:\Users\eduar\Work\GnA\HelloWorld_DotNetCore\HelloMVCWorld\obj\release\netcoreapp1.1\Win10-x64\HelloMVCWorld.dll
+C:\Users\eduar\Work\GnA\HelloWorld_DotNetCore\HelloMVCWorld\obj\release\netcoreapp1.1\Win10-x64\HelloMVCWorld.pdb
